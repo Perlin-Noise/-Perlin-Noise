@@ -1,2 +1,3 @@
-# -Perlin-Noise
-we are going to use the p5.js
+database:Mysql
+backend :flask python 
+front end :vue.js
