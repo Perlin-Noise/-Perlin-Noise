@@ -1,8 +1,11 @@
 import React from 'react';
 const Home = () => {
     return (
-        <div>
-<p>Welcome</p>
-        </div>);
+            <form>
+                    <input type="text" name = "city" placeholder = "City" />
+                    <input type="text" name = "country" placeholder = "country"  /> 
+                    <button>get data</button>
+            </form>
+    );
 }
 export default Home;
